@@ -1,1 +1,1 @@
-must contain email and phone number completed
+check validation implemented
