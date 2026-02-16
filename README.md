@@ -1,1 +1,1 @@
-# spm-agile-workflow
+must contain email and phone number completed
